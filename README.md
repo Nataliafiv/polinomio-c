@@ -1,2 +1,2 @@
 # polinomio-c
-1 trabalho polinomios c
+1 trabalho faculdade
